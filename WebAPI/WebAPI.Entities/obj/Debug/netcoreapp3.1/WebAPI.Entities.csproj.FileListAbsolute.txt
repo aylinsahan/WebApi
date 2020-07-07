@@ -1,0 +1,9 @@
+C:\Projects\WebAPI\WebAPI.Entities\bin\Debug\netcoreapp3.1\WebAPI.Entities.deps.json
+C:\Projects\WebAPI\WebAPI.Entities\bin\Debug\netcoreapp3.1\WebAPI.Entities.dll
+C:\Projects\WebAPI\WebAPI.Entities\bin\Debug\netcoreapp3.1\WebAPI.Entities.pdb
+C:\Projects\WebAPI\WebAPI.Entities\obj\Debug\netcoreapp3.1\WebAPI.Entities.csprojAssemblyReference.cache
+C:\Projects\WebAPI\WebAPI.Entities\obj\Debug\netcoreapp3.1\WebAPI.Entities.csproj.CoreCompileInputs.cache
+C:\Projects\WebAPI\WebAPI.Entities\obj\Debug\netcoreapp3.1\WebAPI.Entities.AssemblyInfoInputs.cache
+C:\Projects\WebAPI\WebAPI.Entities\obj\Debug\netcoreapp3.1\WebAPI.Entities.AssemblyInfo.cs
+C:\Projects\WebAPI\WebAPI.Entities\obj\Debug\netcoreapp3.1\WebAPI.Entities.dll
+C:\Projects\WebAPI\WebAPI.Entities\obj\Debug\netcoreapp3.1\WebAPI.Entities.pdb

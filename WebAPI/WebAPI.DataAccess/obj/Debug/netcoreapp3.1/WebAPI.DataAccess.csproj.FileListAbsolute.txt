@@ -1,0 +1,17 @@
+C:\Projects\WebAPI\WebAPI.DataAccess\bin\Debug\netcoreapp3.1\WebAPI.DataAccess.deps.json
+C:\Projects\WebAPI\WebAPI.DataAccess\bin\Debug\netcoreapp3.1\WebAPI.DataAccess.dll
+C:\Projects\WebAPI\WebAPI.DataAccess\obj\Debug\netcoreapp3.1\WebAPI.DataAccess.AssemblyInfoInputs.cache
+C:\Projects\WebAPI\WebAPI.DataAccess\obj\Debug\netcoreapp3.1\WebAPI.DataAccess.AssemblyInfo.cs
+C:\Projects\WebAPI\WebAPI.DataAccess\bin\Debug\netcoreapp3.1\WebAPI.DataAccess.runtimeconfig.json
+C:\Projects\WebAPI\WebAPI.DataAccess\bin\Debug\netcoreapp3.1\WebAPI.DataAccess.runtimeconfig.dev.json
+C:\Projects\WebAPI\WebAPI.DataAccess\bin\Debug\netcoreapp3.1\WebAPI.DataAccess.pdb
+C:\Projects\WebAPI\WebAPI.DataAccess\bin\Debug\netcoreapp3.1\WebAPI.Entities.dll
+C:\Projects\WebAPI\WebAPI.DataAccess\bin\Debug\netcoreapp3.1\WebAPI.Entities.pdb
+C:\Projects\WebAPI\WebAPI.DataAccess\obj\Debug\netcoreapp3.1\WebAPI.DataAccess.csprojAssemblyReference.cache
+C:\Projects\WebAPI\WebAPI.DataAccess\obj\Debug\netcoreapp3.1\WebAPI.DataAccess.csproj.CoreCompileInputs.cache
+C:\Projects\WebAPI\WebAPI.DataAccess\obj\Debug\netcoreapp3.1\WebAPI.DataAccess.csproj.CopyComplete
+C:\Projects\WebAPI\WebAPI.DataAccess\obj\Debug\netcoreapp3.1\WebAPI.DataAccess.dll
+C:\Projects\WebAPI\WebAPI.DataAccess\obj\Debug\netcoreapp3.1\WebAPI.DataAccess.pdb
+C:\Projects\WebAPI\WebAPI.DataAccess\obj\Debug\netcoreapp3.1\WebAPI.DataAccess.genruntimeconfig.cache
+C:\Projects\WebAPI\WebAPI.DataAccess\bin\Debug\netcoreapp3.1\WebAPI.Core.dll
+C:\Projects\WebAPI\WebAPI.DataAccess\bin\Debug\netcoreapp3.1\WebAPI.Core.pdb
